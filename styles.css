@@ -1,0 +1,12 @@
+
+ li {
+  
+    float: left;
+    background-color: #dddddd;
+  }
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
